@@ -1,14 +1,11 @@
-# Climate-change
-Exploring climate change impacts through data, code, and visualizations.
-
-# 🌍 Climate Change Analysis & Modeling
+## 🌍 Climate Change Analysis & Modeling
 
 This repository contains a series of data-driven projects and experiments related to **climate change**.  
 It is part of my personal journey to deepen my skills in data science while exploring one of the most pressing global issues of our time.
 
 ---
 
-## 🧭 Purpose
+ 🧭 Purpose
 
 - Explore various aspects of climate change through data
 - Practice data wrangling, visualization, and modeling
@@ -17,7 +14,7 @@ It is part of my personal journey to deepen my skills in data science while expl
 
 ---
 
-## 📁 Contents
+ 📁 Contents
 
 Planned and ongoing topics include:
 
@@ -29,7 +26,7 @@ Planned and ongoing topics include:
 
 ---
 
-## 🔧 Tools & Technologies
+ 🔧 Tools & Technologies
 
 - Python (pandas, numpy, matplotlib, seaborn, plotly)
 - Jupyter Notebook
